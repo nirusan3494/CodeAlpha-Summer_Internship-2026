@@ -13,7 +13,24 @@ Welcome to my internship portfolio! This monorepo contains multiple robust Java-
 
 ## 📌 Projects Included
 
-### 🤖 1. Artificial Intelligence Chatbot
+
+### 📊 1. Student Grade Tracker
+A streamlined grading environment to compute, manage, and report academic data.
+* **Dynamic Data Management:** [cite_start]Utilizes `ArrayLists` to dynamically store and manage multiple `Student` objects without strict size limits[cite: 161].
+* **Automated Computation:** [cite_start]Automatically tracks running sums and compares data to output the class average, highest score, and lowest score[cite: 163].
+* **Robust Input Validation:** [cite_start]Features nested loops and error handling to ensure entered grades remain within valid bounds (0-100), preventing application crashes[cite: 162].
+# 📷 Screenshot
+![Grade Tracker](images/Student_Grade_Tracker-Demo.png)
+
+### 📈 2. Stock Trading Platform (Simulation)
+A simulated financial ecosystem tracking virtual wallets, market volatility, and asset management.
+* **Dynamic Market Simulation:** [cite_start]Features realistic price fluctuations mimicking real-world stock market volatility[cite: 310].
+* **Trade Execution Logic:** [cite_start]Real-time validation prevents users from buying with insufficient funds or selling unowned shares[cite: 311].
+* **Object-Oriented Design:** [cite_start]Strictly adheres to OOP principles to manage modular classes for users, holdings, and transaction ledgers[cite: 316].
+# 📷 Screenshot
+![Stock Platform](images/Stock_Trading_Platform-Demo.png)
+
+### 🤖 3. Artificial Intelligence Chatbot
 A real-time interactive chatbot that bridges core programming logic with AI simulation.
 * **Architecture:** [cite_start]Designed with a centralized controller to separate UI rendering from logical processing[cite: 30, 31].
 * **GUI Integration:** [cite_start]Features a sleek desktop interface built with Java Swing, including a scrollable chat area and dynamic input field[cite: 25].
@@ -22,23 +39,13 @@ A real-time interactive chatbot that bridges core programming logic with AI simu
 # 📷 Screenshot
 ![Chatbot](images/Artificial_Intelligence_Chatbot-Demo.png)
 
-### 📊 2. Student Grade Tracker
-A streamlined grading environment to compute, manage, and report academic data.
-* **Dynamic Data Management:** [cite_start]Utilizes `ArrayLists` to dynamically store and manage multiple `Student` objects without strict size limits[cite: 161].
-* **Automated Computation:** [cite_start]Automatically tracks running sums and compares data to output the class average, highest score, and lowest score[cite: 163].
-* **Robust Input Validation:** [cite_start]Features nested loops and error handling to ensure entered grades remain within valid bounds (0-100), preventing application crashes[cite: 162].
-
-### 📈 3. Stock Trading Platform (Simulation)
-A simulated financial ecosystem tracking virtual wallets, market volatility, and asset management.
-* **Dynamic Market Simulation:** [cite_start]Features realistic price fluctuations mimicking real-world stock market volatility[cite: 310].
-* **Trade Execution Logic:** [cite_start]Real-time validation prevents users from buying with insufficient funds or selling unowned shares[cite: 311].
-* **Object-Oriented Design:** [cite_start]Strictly adheres to OOP principles to manage modular classes for users, holdings, and transaction ledgers[cite: 316].
-
 ### 🏨 4. Hotel Reservation System
 A modular booking system managing real-time inventory and simulating payment gateways.
 * **Dynamic Room Browsing:** [cite_start]Allows users to search and view available rooms categorized by standard, deluxe, and suite types[cite: 149].
 * **Payment Simulation:** [cite_start]Validates virtual funds prior to booking confirmation and automatically calculates change[cite: 151].
 * **Data Persistence:** [cite_start]Initially implemented using file I/O to maintain booking states across application runs, acting as a precursor to full database integration[cite: 256, 262].
+# 📷 Screenshot
+![Hotel System](images/Hotel_Reservation_System-Demo.png)
 
 ---
 
