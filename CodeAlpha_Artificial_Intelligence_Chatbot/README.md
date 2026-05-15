@@ -77,4 +77,8 @@ Data Structures: Using HashMaps for efficient keyword-to-response mapping.
 
 Pattern Matching: Developing rule-based algorithms to simulate intelligence.
 
+ 📷 Screenshot
+---
+![Chatbot](images/Artificial_Intelligence_Chatbot-Demo.png)
+
 **Developed with ❤️ as part of the CodeAlpha Java Programming Internship.
