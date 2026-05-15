@@ -19,6 +19,8 @@ A real-time interactive chatbot that bridges core programming logic with AI simu
 * **GUI Integration:** [cite_start]Features a sleek desktop interface built with Java Swing, including a scrollable chat area and dynamic input field[cite: 25].
 * **NLP Preprocessing:** [cite_start]Implements text normalization to strip punctuation and convert input to lowercase, ensuring user intent is captured regardless of grammar[cite: 26].
 * **Rule-Based Intelligence:** [cite_start]Powered by a robust `HashMap` dictionary that extracts core keywords to fetch and deliver the most relevant FAQ responses[cite: 27, 28].
+# 📷 Screenshot
+![Chatbot](images/Artificial_Intelligence_Chatbot-Demo.png)
 
 ### 📊 2. Student Grade Tracker
 A streamlined grading environment to compute, manage, and report academic data.
